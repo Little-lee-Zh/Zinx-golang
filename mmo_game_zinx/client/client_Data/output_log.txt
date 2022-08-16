@@ -1,0 +1,32 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\Google.Protobuf.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\Google.Protobuf.dll into Unity Child Domain
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.331 seconds
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Goproject1\zinx-Golang\mmo_game_zinx\client\client_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.463800 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: d2c -> priority: 1 
+  Thread -> id: 2da4 -> priority: 1 
+  Thread -> id: 4c6c -> priority: 1 
